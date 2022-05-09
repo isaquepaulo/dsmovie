@@ -1,0 +1,17 @@
+header {
+    background-color: var(--color-primary);
+    height: 60px;
+}
+
+.dsmovie-nav-content {
+    color: #fff;
+}
+
+.dsmovie-nav-content h1{
+    font-weight: 700;
+    font-size: 24px;
+}
+
+.dsmovie-contact-link {
+    font-size: 12px;
+}
