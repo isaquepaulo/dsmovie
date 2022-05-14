@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import MovieCard from "components/MovieCard";
 import Pagination from "components/Pagination";
 import { BASE_URL } from "utils/requests";
-import { MoviePage } from "types/Movie";
+import { MoviePage } from "types/movie";
 
 function Listing() {
   const [pageNumber, setPageNumber] = useState(0);
